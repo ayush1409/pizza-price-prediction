@@ -21,7 +21,7 @@ plt.plot(X,y,'k. ')
 
 plt.axis([0,25,0,25])
 plt.grid(True)
-#plt.show()
+plt.show()
 
 model = LinearRegression()
 
